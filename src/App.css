@@ -1,0 +1,12 @@
+.min_div {
+  /* border: 2px solid red; */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+}
+.subdiv {
+  border: 2px solid yellow;
+}
